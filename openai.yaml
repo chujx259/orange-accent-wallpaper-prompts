@@ -1,0 +1,5 @@
+interface:
+  display_name: "橙色视觉锚点壁纸"
+  short_description: "生成亮橙锚点9:16 Midjourney v8.2英文提示词"
+  brand_color: "#FF4900"
+  default_prompt: "使用 $orange-accent-wallpaper-prompts 将我的主题重构为 3 个 9:16 写实超现实主义壁纸方向，每个方向只输出一条不超过 900 字符的英文 Midjourney v8.2 提示词；保留纪实主体与关键关系，建立极简舞台、冷色大场和一个清晰的空间关系，让 #ff4900 作为约 15%-20% 的结构锚点；人物方向默认使用有支撑的非对称姿态和一种杂志级构图，其中最多一个方向使用人物—花卉/物体的 Scale Shift。"
